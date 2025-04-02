@@ -1,0 +1,2 @@
+C:\Nexus\bin\Release\net7.0\win-x64\publish\Nexus.pdb
+C:\Nexus\bin\Release\net7.0\win-x64\publish\Nexus.exe
