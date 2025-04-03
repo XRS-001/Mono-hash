@@ -99,7 +99,7 @@
         }
       }
     },
-    "net7.0/win10-x64": {
+    "net7.0/win-x64": {
       "MessagePack/3.1.3": {
         "type": "package",
         "dependencies": {
@@ -366,11 +366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nexus\\Nexus.csproj",
+      "projectUniqueName": "C:\\Users\\Con_P\\Desktop\\Nexus\\Nexus.csproj",
       "projectName": "Nexus",
-      "projectPath": "C:\\Nexus\\Nexus.csproj",
+      "projectPath": "C:\\Users\\Con_P\\Desktop\\Nexus\\Nexus.csproj",
       "packagesPath": "C:\\Users\\Con_P\\.nuget\\packages\\",
-      "outputPath": "C:\\Nexus\\obj\\",
+      "outputPath": "C:\\Users\\Con_P\\Desktop\\Nexus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Con_P\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -438,7 +438,7 @@
       }
     },
     "runtimes": {
-      "win10-x64": {
+      "win-x64": {
         "#import": []
       }
     }

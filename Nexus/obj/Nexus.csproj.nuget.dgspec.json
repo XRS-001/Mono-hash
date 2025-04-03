@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nexus\\Nexus.csproj": {}
+    "C:\\Users\\Con_P\\Desktop\\Nexus\\Nexus.csproj": {}
   },
   "projects": {
-    "C:\\Nexus\\Nexus.csproj": {
+    "C:\\Users\\Con_P\\Desktop\\Nexus\\Nexus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nexus\\Nexus.csproj",
+        "projectUniqueName": "C:\\Users\\Con_P\\Desktop\\Nexus\\Nexus.csproj",
         "projectName": "Nexus",
-        "projectPath": "C:\\Nexus\\Nexus.csproj",
+        "projectPath": "C:\\Users\\Con_P\\Desktop\\Nexus\\Nexus.csproj",
         "packagesPath": "C:\\Users\\Con_P\\.nuget\\packages\\",
-        "outputPath": "C:\\Nexus\\obj\\",
+        "outputPath": "C:\\Users\\Con_P\\Desktop\\Nexus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Con_P\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
         }
       },
       "runtimes": {
-        "win10-x64": {
+        "win-x64": {
           "#import": []
         }
       }

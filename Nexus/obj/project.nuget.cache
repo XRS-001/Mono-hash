@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UbjkDvJmKy+SJ8NeJBVn/AmpeS6AbOnmL70d8FmhoqaV+x7N4VppmKJh0fnucHG7fFUEywnDtXy0Unw5fr096g==",
+  "dgSpecHash": "BRnQ8IdM5eZFzdmygTzP12YCKjQjXCqtKNNiy4vbfBvY8Hn6wBqMtz4RhLRYG0ufIBsACmAVkRRbroUZw8hhLg==",
   "success": true,
-  "projectFilePath": "C:\\Nexus\\Nexus.csproj",
+  "projectFilePath": "C:\\Users\\Con_P\\Desktop\\Nexus\\Nexus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Con_P\\.nuget\\packages\\messagepack\\3.1.3\\messagepack.3.1.3.nupkg.sha512",
     "C:\\Users\\Con_P\\.nuget\\packages\\messagepack.annotations\\3.1.3\\messagepack.annotations.3.1.3.nupkg.sha512",

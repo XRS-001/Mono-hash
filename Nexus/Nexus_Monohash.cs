@@ -1258,6 +1258,8 @@ namespace Nexus
                                     bool UTXOsInSet = true;
                                     foreach (BroadcastTransaction UTXO in broadcast.unspentOutputs)
                                     {
+                                        if(UTXO.output.receiverAddress != broadcast.output.senderAddress)
+                                            return;
                                         if(!UTXOsInSet)
                                             break;
                                         UTXOsInSet = false;
@@ -1474,7 +1476,11 @@ namespace Nexus
                         return false;
                     float totalOutput = 0;
                     foreach (BroadcastTransaction transaction in transactions[i].unspentOutputs)
+                    {
+                        if(transaction.output.receiverAddress != transactions[i].output.senderAddress)
+                            return false;
                         totalOutput += transaction.output.sentAmount;
+                    }
                         
                     if(transactions[i].output.sentAmount + transactions[i].output.networkFee > totalOutput)
                         return false;
